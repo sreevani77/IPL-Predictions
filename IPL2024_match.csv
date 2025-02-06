@@ -1,0 +1,77 @@
+﻿match_no,city,date_of_match,venue,Home_team,Away_team,toss_winner,toss_decision,winner,man_of_the_match,result,result_margin,eliminator,umpire1,umpire2
+1,Chennai,3/22/2024,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Bat,Chennai Super Kings,Mustafizur Rahman,wicket,6,N,Saiyed Khalid,Virender Sharma
+2,Chandigarh,3/23/2024,Maharaja Yadavindra Singh International Cricket Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,Bowl,Punjab Kings,Sam Curran,wicket,4,N,Jayaraman Madanagopal,Nikhil Patwardhan
+3,Kolkata,3/23/2024,Eden Gardens,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Bowl,Kolkata Knight Riders,Andre Russel,runs,4,N,Rohan Pandit,Yeshwant Barde
+4,Jaipur,3/24/2024,Sawai mansingh Stadium,Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Bowl,Rajasthan Royals,Sanju Samson,runs,20,N,Akshay Totre,Kumar Dharmasena
+5,Ahmedabad,3/24/2024,Narendra Modi Stadium,Gujarat Titans,Mumbai Indians,Mumbai Indians,Bowl,Gujarat Titans,Sai Sudarshan,runs,6,N,Vineet Kulkarni,Virender Sharma
+6,Bengaluru,3/25/2024,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Bowl,Royal Challengers Bangalore,Virat Kohli,wicket,4,N,Anil Chaudhary,Sai Darshan Kumar
+7,Chennai,3/26/2024,MA Chidambaram Stadium,Chennai Super Kings,Gujarat Titans,Gujarat Titans,Bowl,Chennai Super Kings,Shivam Dube,runs,63,N,Alex Wharf,Tapan Sharma
+8,Hyderabad,3/27/2024,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Bowl,Sunrisers Hyderabad,Abhishek Sharma,runs,31,N,KN Anatha Padmanabhan,Ulhas Gandhe
+9,Jaipur,3/28/2024,Sawai mansingh Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Bowl,Rajasthan Royals,Riyan Parag,runs,12,N,Nitin Menon,Nand Kishore
+10,Bengaluru,3/29/2024,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Bowl,Kolkata Knight Riders,Sunil Narine,wicket,7,N,Anil Chaudhary,Rohan Pandit
+11,Lucknow,3/30/2024,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,Bat,Lucknow Super Giants,Mayank Yadav,runs,21,N,Jayaraman Madanagopal,Navdeep Singh
+12,Ahmedabad,3/31/2024,Narendra Modi Stadium,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Bat,Gujarat Titans,Mohit Sharma,wicket,7,N,Virender Sharma,Saiyed-Khalid
+13,Vishakhapatnam,3/31/2024,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,Bat,Delhi Capitals,Khaleel Ahmed,runs,20,N,Kumar Dharmasena,Vinod Seshan
+14,Mumbai,4/1/2024,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Bat,Rajasthan Royals,Trent Boult,wicket,6,N,Sai Darshan Kumar,Yeshwant Barde
+15,Bengaluru,4/2/2024,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Lucknow Super Giants,Royal Challengers Bangalore,Bowl,Lucknow Super Giants,Mayank Yadav,runs,28,N,Jayaraman Madanagopal,Nikhil Patwardhan
+16,Vishakhapatnam,4/3/2024,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Bat,Kolkata Knight Riders,Sunil Narine,runs,106,N,Ulhas Gandhe,Akshay Totre
+17,Ahmedabad,4/4/2024,Narendra Modi Stadium,Gujarat Titans,Punjab Kings,Punjab Kings,Bowl,Punjab Kings,Shashank Singh,wicket,3,N,Vineet Kulkarni,Nitin Menon
+18,Hyderabad,4/5/2024,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,Abhishek Sharma,wicket,6,N,Rohan Pandit,Yeshwant Barde
+19,Jaipur,4/6/2024,Sawai mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Bat,Rajasthan Royals,Jos Buttler,wicket,6,N,Jayaraman Madanagopal,Tapan Sharma
+20,Mumbai,4/7/2024,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,Bowl,Mumbai Indians,Romario Shepherd,runs,29,N,Kumar Dharmasena,Ulhas Gandhe
+21,Lucknow,4/7/2024,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Gujarat Titans,Lucknow Super Giants,Bat,Lucknow Super Giants,Yash Thakur,runs,33,N,Nand Kishore,Virender Sharma
+22,Chennai,4/8/2024,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bowl,Chennai Super Kings,Ravindra Jadeja,wicket,7,N,Anil Chaudhary,Sai Darshan Kumar
+23,Mohali,4/9/2024,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Bowl,Sunrisers Hyderabad,Nitish Reddy,runs,2,N,Navdeep Singh,Nikhil Patwardhan
+24,Jaipur,4/10/2024,Sawai mansingh Stadium,Rajasthan Royals,Gujarat Titans,Gujarat Titans,Bat,Rajasthan Royals,Rashid Khan,wicket,3,N,Kumar Dharmasena,Vinod Seshan
+25,Mumbai,4/11/2024,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Bowl,Mumbai Indians,Jasprit Bumrah,wicket,7,N,Nitin Menon,Vineet Kulkarni
+26,Lucknow,4/12/2024,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Bat,Delhi Capitals,Kuldeep Yadav,wicket,6,N,Yeshwant Barde,Rohan Pandit
+27,Mohali,4/13/2024,Punjab Cricket Association IS Bindra Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,Bowl,Rajasthan Royals,Shimron Hetmyer,wicket,3,N,Anil Kumar Chaudhary,Tapan Sharma
+28,Kolkata,4/14/2024,Eden Gardens,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,Bowl,Kolkata Knight Riders,Philip Salt,wicket,8,N,Akshay Totre,Vinod Seshan
+29,Mumbai,4/14/2024,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bowl,Chennai Super Kings,Matheesha Pathirana,runs,20,N,Nitin Menon,Saiyed Khalid
+30,Bengaluru,4/15/2024,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Bowl,Sunrisers Hyderabad,Travis Head,runs,25,N,Anil Chaudhary,Rohan Pandit
+31,Kolkata,4/16/2024,Eden Gardens,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Bowl,Rajasthan Royals,Jos Buttler,wicket,2,N,Michael Gaugh,Ulhas Gandhe
+32,Ahmedabad,4/17/2024,Narendra Modi Stadium,Gujarat Titans,Delhi Capitals,Delhi Capitals,Bowl,Delhi Capitals,Rishabh Pant,wicket,6,N,Virender Sharma,Nikhil Patwardhan
+33,Chandigarh,4/18/2024,Maharaja Yadavindra Singh International Cricket Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,Bowl,Mumbai Indians,Jasprit Bumrah,runs,9,N,Nand Kishore,Vineet Kulkarni
+34,Lucknow,4/19/2024,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,Bowl,Lucknow Super Giants,KL Rahul,wicket,8,N,Rohan Pandit,Anil Kumar Chaudhary
+35,Delhi,4/20/2024,Arun Jaitley Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Bowl,Sunrisers Hyderabad,Travis Head,runs,67,N,Jayaraman Madanagopal,Navdeep Singh
+36,Kolkata,4/21/2024,Eden Gardens,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Bowl,Kolkata Knight Riders,Andre Russel,runs,1,N,Akshay Totre,Vinod Seshan
+37,Chandigarh,4/21/2024,Maharaja Yadavindra Singh International Cricket Stadium,Punjab Kings,Gujarat Titans,Punjab Kings,Bat,Gujarat Titans,Sai Kishore,wicket,3,N,Nand Kishore,Vineet Kulkarni
+38,Jaipur,4/22/2024,Sawai mansingh Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,Bat,Rajasthan Royals,Yashasvi Jaiswal,wicket,9,N,Saidharshan Kumar,Anil Kumar Chaudhary
+39,Chennai,4/23/2024,MA Chidambaram Stadium,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Bowl,Lucknow Super Giants,Marcus Stoinis,wicket,6,N,Nikhil Patwardhan,Tapan Sharma
+40,Delhi,4/24/2024,Arun Jaitley Stadium,Delhi Capitals,Gujarat Titans,Gujarat Titans,Bowl,Delhi Capitals,Rishabh Pant,runs,4,N,Ulhas Gandhe,KN Anatha Padmanabhan
+41,Hyderabad,4/25/2024,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Bat,Royal Challengers Bangalore,Rajat Patidar,runs,35,N,Nitin Menon,Saiyed Khalid
+42,Kolkata,4/26/2024,Eden Gardens,Kolkata Knight Riders,Punjab Kings,Punjab Kings,Bowl,Punjab Kings,Jonny Bairstow,wicket,8,N,Anil Kumar Chaudhary,Yeshwant Barde
+43,Delhi,4/27/2024,Arun Jaitley Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,Bowl,Delhi Capitals,Jake Fraser-McGurk,runs,10,N,Navdeep Singh,Nikhil Patwardhan
+44,Lucknow,4/27/2024,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Rajasthan Royals,Rajasthan Royals,Bowl,Rajasthan Royals,Sanju Samson,wicket,7,N,Michael Gaugh,KN Anatha Padmanabhan
+45,Ahmedabad,4/28/2024,Narendra Modi Stadium,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,Bowl,Royal Challengers Bangalore,Will Jacks,wicket,9,N,Virender Sharma,Nitin Menon
+46,Chennai,4/28/2024,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Bowl,Chennai Super Kings,Ruturaj Gaikwad,runs,78,N,Rohan Pandit,Sai Darshan Kumar
+47,Kolkata,4/29/2024,Eden Gardens,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Bat,Kolkata Knight Riders,Varun Chakaravarthy,wicket,7,N,Navdeep Singh,Tapan Sharma
+48,Lucknow,4/30/2024,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,Bowl,Lucknow Super Giants,Marcus Stoinis,wicket,4,N,Michael Gaugh,Ulhas Gandhe
+49,Chennai,5/1/2024,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,Bowl,Punjab Kings,Harpreet Brar,wicket,7,N,Virender Sharma,Saiyed Khalid
+50,Hyderabad,5/2/2024,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Bat,Sunrisers Hyderabad,Bhuvaneshwar Kumar,runs,1,N,Anil Kumar Chaudhary,Yeshwant Barde
+51,Mumbai,5/3/2024,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Bowl,Kolkata Knight Riders,Venkatesh Iyuer,runs,24,N,Jayaraman Madanagopal,Tapan Sharma
+52,Bengaluru,5/4/2024,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Bowl,Royal Challengers Bangalore,Mohammad Siraj,wicket,4,N,Akshay Totre,Vinod Seshan
+53,Dharamsala,5/5/2024,Himachal Pradesh Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,Bowl,Chennai Super Kings,Ravindra Jadeja,runs,28,N,Vineet Kulkarni,Nand Kishore
+54,Lucknow,5/5/2024,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Bowl,Kolkata Knight Riders,Sunil Narine,runs,98,N,Sai Darshan Kumar,Yeshwant Barde
+55,Mumbai,5/6/2024,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bowl,Mumbai Indians,Suryakumar Yadav,wkts,7,N,Navdeep Singh,Tapan Sharma
+56,Delhi,5/7/2024,Arun Jaitley Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Bowl,Delhi Capitals,Kuldeep Yadav,runs,20,N,KN Anatha Padmanabhan,Ulhas Gandhe
+57,Hyderabad,5/8/2024,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Lucknow Super Giants,Lucknow Super Giants,Bat,Sunrisers Hyderabad,Travis Head,wicket,10,N,Yeshwant Barde,Sai Darshan Kumar
+58,Dharamsala,5/9/2024,Himachal Pradesh Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,Bowl,Royal Challengers Bangalore,Virat Kohli,runs,60,N,Nitin Menon,Saiyed Khalid
+59,Ahmedabad,5/10/2024,Narendra Modi Stadium,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,Bowl,Gujarat Titans,Shubman Gill,runs,35,N,KN Anatha Padmanabhan,Nikhil Patwardhan
+60,Kolkata,5/11/2024,Eden Gardens,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Bowl,Kolkata Knight Riders,Varun Chakaravarthy,runs,18,N,Ulhas Gandhe,Vinod Seshan
+61,Chennai,5/12/2024,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Bat,Chennai Super Kings,Simarjeet Singh,wkts,5,N,Rohan Pandit,Yeshwant Barde
+62,Bengaluru,5/12/2024,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Bowl,Royal Challengers Bangalore,Cameron Green,runs,47,N,Nand Kishore,Vineet Kulkarni
+63,Ahmedabad,5/13/2024,Narendra Modi Stadium,Gujarat Titans,Kolkata Knight Riders,Rain,Rain,No Result,No Result,Rain,Rain,rain,rain,rain
+64,Delhi,5/14/2024,Arun Jaitley Stadium,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Bowl,Delhi Capitals,Ishant Sharma,runs,19,N,Akshay Totre,Vinod Seshan
+65,Guwahati,5/15/2024,Barsapara Cricket Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,Bat,Punjab Kings,Sam Curran,wkts,5,N,Anil Chaudhary,Rohan Pandit
+66,Hyderabad,5/16/2024,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Gujarat Titans,Rain,Rain,No Result,No Result,Rain,Rain,N,Virender Sharma,Nand Kishore
+67,Mumbai,5/17/2024,Wankhede Stadium,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,Bowl,Lucknow Super Giants,Nicholas Pooran,runs,18,N,Rohan Pandit,Navdeep Singh
+68,Bengaluru,5/18/2024,M.Chinnaswamy Stadium,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Bowl,Royal Challengers Bangalore,Faf Du Plesis,runs,27,N,KN Anatha Padmanabhan,Akshay Totre
+69,Hyderabad,5/19/2024,Rajiv Gandhi International Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,Bat,Sunrisers Hyderabad,Abhishek Sharma,wkts,4,N,Nitin Menon,Virender Sharma
+70,Guwahati,5/19/2024,Barsapara Cricket Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Bowl,No Result,No Result,Rain,Rain,N,Sai Darshan Kumar,Rohan Pandit
+71,Ahmedabad,5/21/2024,Narendra Modi Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Bat,Kolkata Knight Riders,Mitchell Starc,wkts,8,Y,Anil Chaudhary,Rohan Pandit
+72,Ahmedabad,5/22/2024,Narendra Modi Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Bowl,Rajasthan Royals,R Ashwin,wkts,4,Y,KN Anatha Padmanabhan,Sai Darshan Kumar
+73,Chennai,5/24/2024,MA Chidambaram Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Bowl,Sunrisers Hyderabad,Shahbaz Ahmed,runs,36,Y,Nitin Menon,Virender Sharma
+74,Chennai,5/26/2024,MA Chidambaram Stadium,TBC,TBC,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
